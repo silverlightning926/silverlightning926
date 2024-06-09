@@ -1,5 +1,6 @@
-# Hi 👋, I'm Siddharth Rao
-## Software Engineer & Developer
+# Siddharth Rao
+
+#### *Software Engineer & Developer*
 
 ---
 
