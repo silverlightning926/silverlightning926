@@ -44,7 +44,7 @@
 *Version Control | Graphic Design | Communication*
 
 ### Version Control
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/Github_Copilot-%23000000.svg?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/Github_Copilot-%23000000.svg?style=flat&logo=github&logoColor=white) ![GitKraken](https://img.shields.io/badge/GitKraken-%23179287.svg?style=flat&logo=gitkraken&logoColor=white)
 
 #### Code IDEs & Editors
 ![IntelliJ Idea](https://img.shields.io/badge/Intellij_IDEA-%23000000.svg?style=flat&logo=intellijidea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=flat&logo=pycharm&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=flat&logo=visualstudio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)![WebStorm](https://img.shields.io/badge/WebStorm-%23000000.svg?style=flat&logo=webstorm&logoColor=white)
